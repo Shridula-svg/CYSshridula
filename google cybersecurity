@@ -1,0 +1,24 @@
+
+
+#GOOGLE CYBERSECURITY module 3 course 2
+
+--> SIEM TOOLS 
+1.They help detect, investigate, and respond to security threats in real-time by correlating events and generating alerts. Key features include log management, threat detection, incident response, and compliance reporting. 
+2.they help in analysing what is wrong in the system in order to monitor everyday traffic to track suspicious events and maintaining security posture 
+3.tracking of security event logs 
+4. cloud managed SIEM tools are a lot more prevalent these days
+5. basically in short those are the tools used for vulnerability detection in companies data and information and as the technology evolves the SIEM tools should also evolve.
+6.INDUSTRY LEADING SIEM TOOLS
+=SELF HOSTED :maintained by the organisation only , to maintain confidentiality
+=CLOUD HOSTED:SPLUNK IS AN EXAMPLE OF THAT , data anaylysis platform
+
+SPLUNK :
+=it is a kind of siem tool which is also called as splunk enterprise or splunk cloud which consists of different dashboards for different kinds of activity monitoring for example 
+-to monitor the risks like suspicious login
+-full day to day activity tracking for SOC analyst to take care of it 
+-incident review 
+-overall health of the organisation for a general analysis 
+
+CHORNICLE 
+=it is a SIEM TOOL which is used b y google in order to search up find and clear vulnerabilities
+=same works as in splunk but a different platform 

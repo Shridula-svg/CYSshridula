@@ -1,2 +1,0 @@
-# CYSshridula
-roadmap progress main
