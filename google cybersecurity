@@ -22,3 +22,28 @@ SPLUNK :
 CHORNICLE 
 =it is a SIEM TOOL which is used b y google in order to search up find and clear vulnerabilities
 =same works as in splunk but a different platform 
+
+
+MODULE 6
+=incident response team which focuses on having individual roles in remediating a incident
+=formal incident response should be there
+=different tools are used by security analysts 
+=siem tools collect and analyse log data,
+=collect and aggregate data,normalise data, analyse data
+=SOAR tools automates response to events , i.e what to do
+
+MODULE 2 IN CHAPTER 2:
+=network traffic flows:traffic while data sent over a network
+=data exilfiltraction- to take data
+=to know about normal traffic to detect unusual traffic
+=Data exfiltration attacks=by phishing get acess and take info in the system so phishing is the first step
+=packet captures-packet sniffers is a tool used to capture packet data
+=analyse TCP DUMP
+
+MODULE 3 IN CHAPTER 2:
+=CHAIN OF CUSTODY IS A FORM WHICH IS USED TO FILL ONCE EVIDENCE IS COLLECTED
+=IN ORDER TO PREVENT TAMPERING DURING TRAVEL
+=HASH IS DOCUMENTED FROM WHERE IT IS TRANSFERRED
+=TRIAGE:prioritising incidents according to their level of emeergency
+=receive and asses, assign priority according to the emergency
+=
