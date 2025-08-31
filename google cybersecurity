@@ -46,4 +46,16 @@ MODULE 3 IN CHAPTER 2:
 =HASH IS DOCUMENTED FROM WHERE IT IS TRANSFERRED
 =TRIAGE:prioritising incidents according to their level of emeergency
 =receive and asses, assign priority according to the emergency
-=
+
+
+=logs are used to document events in order to make it easy for us to know about a process
+=info about an event
+=similar to receipts
+=different types of log formats are used like json,syslog,xml,csv,cef
+=TELEMTRY:collect
+=NIDS RULES: action,header,rule options
+=signature specifies rules ie the attacks to detect
+=rule options used to detect the alert fast by using it
+=EXAMINE SURICATA LOGS
+;alert logs to indicate a problem
+;network calamatry logs
